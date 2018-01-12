@@ -33,7 +33,7 @@ or
 ```catkin_make -DCATCKIN_WHITELIST_PACKAGES="seven_dof_arm_gazebo"```
 
 #### **Dependencies** 
-This package depends from the [mastering\_ros\_demo\_pkg](https://github.com/jocacace/mastering_ros_demo_pkg) package.
+This package depends from the [mastering\_ros\_robot\_description\_pkg](https://github.com/jocacace/mastering_ros_robot_description_pkg) package.
 
 ### **Get this book** (in pre-order)
 - [Packt Publishing](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) 
